@@ -915,6 +915,7 @@ button {
 }
 
 .site-branding .brand-logo {
+    width: 120px;
     max-width: 200px
 }
 
